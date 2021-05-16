@@ -1,1 +1,28 @@
-/* You can add global styles to this file, and also import other style files */
+/* @import url("https://fonts.googleapis.com/css2?family=Questrial&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=NTR&display=swap");
+body {
+  background-color: #051747;
+  color: #c5bbdb;
+  /* font-family: "Questrial", sans-serif; */
+  font-family: "NTR", sans-serif;
+  font-size: 22px;
+  min-height: 100vh;
+}
+
+.btn {
+  background-color: #7258e9;
+  border: none;
+  font-size: 18px;
+}
+.btn:hover {
+  background-color: #c5bbdb;
+  color: #7258e9;
+}
+
+.thisPage {
+  color: #7258e9;
+}
+
+li {
+  list-style-type: none;
+}

@@ -1,0 +1,29 @@
+.navbar-light {
+  background-color: #0d2352;
+  color: #c5bbdb;
+}
+
+.navbar-toggler {
+  background-color: #0d2352;
+  color: #c5bbdb;
+}
+.navbar-brand,
+.navbar-nav a {
+  color: #c5bbdb;
+}
+
+.navbar-brand {
+  font-size: 25pt;
+}
+.navbar-brand:hover {
+  color: #c5bbdb;
+}
+
+.navbar-toggler:hover,
+.navbar-nav a:hover {
+  color: #7258e9;
+}
+
+.navbar-nav .nav-link:focus {
+  color: #7258e9;
+}

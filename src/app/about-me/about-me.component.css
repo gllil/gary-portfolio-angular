@@ -1,0 +1,13 @@
+.card {
+  background-color: #0d2352;
+}
+
+.profilePhoto {
+  border-radius: 100px;
+  padding: 20px;
+}
+
+.profilePhotoWrapper {
+  display: flex;
+  justify-content: center;
+}
